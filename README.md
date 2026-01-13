@@ -42,7 +42,15 @@ I’m a passionate full-stack developer who loves building scalable web applicat
   
 
 
-
 ## 🤝 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/shreyash-deulkar-1874b9354/
+
+<a href="https://github.com/Shreyash-23423" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
+       alt="GitHub" width="40" height="40"/>
+</a>
+
+<a href="https://www.linkedin.com/in/shreyash-deulkar-1874b9354/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
+       alt="LinkedIn" width="40" height="40"/>
+</a>
 - 📫 Reach me at: **shreyashdeulkar8@gmail.com**
