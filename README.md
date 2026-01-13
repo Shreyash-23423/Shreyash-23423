@@ -10,7 +10,6 @@ I’m a passionate full-stack developer who loves building scalable web applicat
 - 🌱 Currently learning **Advanced Full-Stack Development**
 - 💻 Working with **Frontend & Backend technologies**
 - 🔭 Interested in **Web Apps, APIs, and System Design**
-- 📫 Reach me at: **your-email@gmail.com**
 
 ---
 
