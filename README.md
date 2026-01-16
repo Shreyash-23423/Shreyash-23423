@@ -32,7 +32,6 @@ I’m a passionate full-stack developer who loves building scalable web applicat
 ### Tools & Platforms
 - Git & GitHub
 - VS Code
-- Linux (Basics)
 
 ---
 
