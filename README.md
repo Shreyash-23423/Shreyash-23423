@@ -1,6 +1,6 @@
 # Hi 👋, I'm Sheyash Deulkar
 
-🚀 Full-Stack Developer | MERN Stack | Problem Solver  
+🚀 Full-Stack Developer | MERN Stack | Python developer 
 
 I’m a passionate full-stack developer who loves building scalable web applications and learning new technologies.
 
