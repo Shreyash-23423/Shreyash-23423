@@ -26,8 +26,9 @@ I’m a passionate full-stack developer who loves building scalable web applicat
 - REST APIs
 
 ### Database
+- MySQL
 - MongoDB (Basics)
-- MySQL 
+ 
 
 ### Tools & Platforms
 - Git & GitHub
